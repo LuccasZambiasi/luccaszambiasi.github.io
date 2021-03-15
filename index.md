@@ -321,7 +321,7 @@ $(window).on('load', function () {
 					  <span class="help-msg">enfim, espero q esteja gostando do livro ^~^</span> <br>
                       <br>
                   <img src="https://media0.giphy.com/media/5WgViULHvtLPRTmW5C/giphy.gif" style="height: 200px; width: 200px;"></center>
-				  <span class="help-msg">- msm se algum dia alguém chegue a falar o contrário, saiba q vc é perfeita e ponto.</span> <br>
+				  <span class="help-msg">msm se algum dia alguém chegue a falar o contrário, saiba q vc é perfeita e ponto.</span> <br>
                 </div>
               </div>
             </div>
